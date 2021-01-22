@@ -1,0 +1,7 @@
+D:\Visual\C#\Practice\Practice\Practice\bin\Debug\Practice.exe.config
+D:\Visual\C#\Practice\Practice\Practice\bin\Debug\Practice.exe
+D:\Visual\C#\Practice\Practice\Practice\bin\Debug\Practice.pdb
+D:\Visual\C#\Practice\Practice\Practice\obj\Debug\GeometryExample.csprojAssemblyReference.cache
+D:\Visual\C#\Practice\Practice\Practice\obj\Debug\GeometryExample.csproj.CoreCompileInputs.cache
+D:\Visual\C#\Practice\Practice\Practice\obj\Debug\Practice.exe
+D:\Visual\C#\Practice\Practice\Practice\obj\Debug\Practice.pdb
